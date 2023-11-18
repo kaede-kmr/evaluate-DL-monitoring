@@ -1,6 +1,6 @@
 # Evaluation of deep learning-based monitoring of frog reproductive phenology
 
-This repository contains the code implementation used for training a deep learning classifier as described in the paper accepted for Ichthyology & Herpetology by Kimura and Sota (DOI will be included after publication). We trained a convolutional newral network (CNN) capable of identifying five frog species based on their call recorded in Kyoto City, Japan.
+This repository contains the code implementation used for training a deep learning classifier as described in the paper published Ichthyology & Herpetology by Kimura and Sota (DOI: https://doi.org/10.1643/h2023018). We trained a convolutional newral network (CNN) capable of identifying five frog species based on their call recorded in Kyoto City, Japan.
 
 The code was uploaded to share an example of simple training procedure using Python and the [fastai](https://www.fast.ai/) library. Audio datasets required for training and inference are not included, which are available from the corresponding author (K.K.) upon request.
 
